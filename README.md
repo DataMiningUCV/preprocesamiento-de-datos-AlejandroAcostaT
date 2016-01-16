@@ -6,6 +6,7 @@ informe.pdf
 explicacion.pdf  
 Tarea1.py  
 Readme.md  
+minable.csv
 
 #Synopsis:
 Este es el repositorio de la Tarea 1.
